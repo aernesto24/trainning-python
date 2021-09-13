@@ -14,6 +14,7 @@ def lineal_search(list, objective):
 
     return match
 
+
 if __name__ == '__main__':
     list_size = int(input("Enter list size: "))
     objective = int(input("Enter the number you are looking for: "))
