@@ -21,6 +21,10 @@ source env/bin/activate
 
 Now you can install anything on your environment
 
+```
+pip install bokeh
+``` 
+
 To check what is installed on your environment, execute:
 ```
 pip freeze
