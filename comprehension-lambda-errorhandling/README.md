@@ -1,6 +1,6 @@
-#Python Intermediate software examples
+# Python Intermediate software examples
 
-##Important information to remember
+## Important information to remember
 
 **To create a venv**
 ```
@@ -20,7 +20,7 @@ $source venv/bin/activate
 $deactivate
 ```
 
-##Install dependencies With PIP
+## Install dependencies With PIP
 
 PIP is the package installer for python, similar to npm for javascript
 
@@ -35,7 +35,7 @@ $pip3 freeze
 $pip install name_of_module
 ```
 
-THis will make the the module to be installe inside the virtualenv
+**NOTE:** THis will make the the module to be installe inside the virtualenv
 
 **You can install requirements and then use the following command to create the requirements.txt to share to other users** 
 ```
